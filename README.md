@@ -1,3 +1,3 @@
 # KotlinListViewCustomImage
 List view with custom Adapter using Kotlin Language
-![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
+![Alt text](/../device-2017-12-06-133722.png.png?raw=true "Optional Title")
